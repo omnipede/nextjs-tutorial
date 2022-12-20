@@ -24,3 +24,7 @@ $ npm run dev
 ```shell
 $ npm start 
 ```
+
+## Deploy
+
+* Via [vercel](https://nextjs.org/learn/basics/deploying-nextjs-app/deploy)
